@@ -4,6 +4,10 @@ A minimalist iOS speedometer built with SwiftUI. It puts a large 7‑segment
 current‑speed readout front and centre, with trip stats and live GPS signal
 quality — all driven by the device's GPS via `CLLocationManager`.
 
+<p align="center">
+  <img src="UI_screenshot.png" alt="GPS Speed showing a 7-segment speed readout with GPS signal quality and trip stats" width="280">
+</p>
+
 ## Features
 
 | | |
